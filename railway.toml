@@ -1,5 +1,0 @@
-[build]
-buildCommand = "echo building"
-
-[deploy]
-startCommand = "hello jitachi"
